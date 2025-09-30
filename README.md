@@ -3,8 +3,9 @@
 Hello
 
 About me...
-+ eaten
-+ followed
-+ bin
++ 22
++ unemployed
++ male
++ British
 
 [click me](www.imredeak.com)
