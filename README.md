@@ -5,8 +5,8 @@ hi
 123 paragraph
 
 i am
-+eaten
-+followed
-+bin
++ eaten
++ followed
++ bin
 
-hyperlinks [click me] (www.imredeak.com)
+hyperlinks[click me](www.imredeak.com)
