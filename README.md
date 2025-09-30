@@ -1,10 +1,8 @@
-# jai
+# I am....
 
-hi
+Hello
 
-123 paragraph
-
-i am
+About me...
 + eaten
 + followed
 + bin
