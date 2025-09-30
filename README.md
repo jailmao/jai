@@ -8,4 +8,4 @@ About me...
 + male
 + British
 
-[click me](www.imredeak.com)
+[my frind](www.imredeak.com)
