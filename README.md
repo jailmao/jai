@@ -9,4 +9,4 @@ i am
 + followed
 + bin
 
-hyperlinks[click me](www.imredeak.com)
+[click me](www.imredeak.com)
